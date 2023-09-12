@@ -1,2 +1,2 @@
 # KubernetesCluster-Autoscaler-EKS
-This autocluster is contain max cluster allocation
+This auto cluster  contain max node allocation 
